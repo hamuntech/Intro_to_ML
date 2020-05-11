@@ -1,5 +1,5 @@
-Kaggle ML Exercise - Basic Data Exploration
+Kaggle - Intro to Machine Learning
 
-This exercise uses pandas DataFrame to examine our ML data. DataFrame holds tabular data as a set of rows and columns, like an Excel sheet or SQL table. 
+This respository contains the exercises code from "Kaggle - Intro to Machine Learning" module.
 
 Please visit my website https://hamuntech.com/ for other resources.
